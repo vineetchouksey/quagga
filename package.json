@@ -1,0 +1,19 @@
+{
+  "name": "quagga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quagga.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetchouksey/quagga.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineetchouksey/quagga/issues"
+  },
+  "homepage": "https://github.com/vineetchouksey/quagga#readme"
+}
